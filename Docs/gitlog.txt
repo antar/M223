@@ -1,0 +1,125 @@
+commit a7ed6b6ee119367f6ad92c50b73d61f6b7f69c77
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Fri Sep 10 10:32:56 2021 +0200
+
+    feat: deleted .vscode folder
+
+commit 1862e65585bfc7485d6c1447bff0dbca88b8a0f8
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Fri Sep 10 09:55:31 2021 +0200
+
+    finished project structure
+
+commit b48f7857b53001f7b2e29bd2bda8e4c864a0030c
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Fri Sep 10 09:22:45 2021 +0200
+
+    feat: better folder structure
+
+commit 566ff23a20bd29c3f7ad4950f1fbf0a589fb06bb
+Author: antar <69793174+antar@users.noreply.github.com>
+Date:   Fri Sep 10 09:02:13 2021 +0200
+
+    Update README.md
+
+commit 0b36b1f9b21ae38a518f90474a05bf8b6f4671cc
+Author: antar <69793174+antar@users.noreply.github.com>
+Date:   Fri Sep 10 09:00:25 2021 +0200
+
+    Create README.md
+
+commit 1ca63dea248b6db19179204710801bc8014adc5c
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Fri Sep 10 08:28:50 2021 +0200
+
+    feat: added controllers for models
+
+commit b71ff12cb4d26acb05cabe62f2b399e27e59af3e
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 11:31:59 2021 +0200
+
+    feat: Repositories define a new elegant method of storing, updating, and extracting the data stored from JAVA applications in the backend.
+
+commit 17b05ff94904130302641d7700e9d745c9a0b84c
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 11:01:42 2021 +0200
+
+    feat: added basic structure for models
+
+commit a03974d507717fadaaa4f030deda79555c3086b3
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 10:23:08 2021 +0200
+
+    feat: added JWT compability for System like "https://github.com/NosPL/spring-security/tree/master/src/main/java/com/example/security/security_config"
+
+commit 01252d669202e7a160804f29e41010402b5badf0
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 09:32:08 2021 +0200
+
+    feat: added signin and signup
+
+commit a58ae40e9369a8fcc61b239aba49b10021dbc142
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 09:23:28 2021 +0200
+
+    feat: added deleteToken method and basic basic basic html elements ;)
+
+commit 162070d95655bc9f5406218ba2559cdf766c7efd
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 09:16:59 2021 +0200
+
+    feat: added test data as transaction
+
+commit 28ace2d88b54dde04e918d138ff8fc748423f540
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 09:14:23 2021 +0200
+
+    feat: added schema for db
+
+commit 16d3f80dc901f50c06ddd61b3c3158a5fa2ab392
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 09:08:01 2021 +0200
+
+    feat: added project code folder
+
+commit 774f06107db49d2e522c1fcf621abe5ca614cd68
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 08:54:50 2021 +0200
+
+    feat: added gradle and configuration files
+
+commit 4743ad7fe2c847b469a8c5b1248e177e380f0999
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 08:34:48 2021 +0200
+
+    feat: added persona to doc
+
+commit 6edc76078d23c5eb4b5b9acb4121ee312019d884
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 08:31:56 2021 +0200
+
+    fix: path from files0
+
+commit e8a360580b7e82a5a7e3ec20385c5490f127547a
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 08:30:05 2021 +0200
+
+    feat: better structure
+
+commit 43314d2304d1639aab79c9d94113a3952cca5612
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Thu Sep 9 08:29:16 2021 +0200
+
+    feat: finished docs for project
+
+commit e70ad1926f4b92f9b2c301a568c637632debef01
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Wed Sep 8 13:51:36 2021 +0200
+
+    fix: deleted files that I don't need
+
+commit 90cfb49dae33c4c22103b7a12978969f11e230be
+Author: antar <toobrokeforrysll@gmail.com>
+Date:   Wed Sep 8 13:50:04 2021 +0200
+
+    feat: Praktische Umsetzungsarbeit Teil 1 & 2 erledigt
