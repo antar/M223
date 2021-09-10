@@ -11,6 +11,8 @@ With this application you can do the crud operations for your appointments. You 
 ### Dependencies
 
 * JDK 11 or higher
+* XAMP for the MySQL Server
+* MySQL Workbench for DB connection
 
 ### Installing
 
