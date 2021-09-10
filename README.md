@@ -4,13 +4,15 @@ This application enables the user to manage his appointments and the associated 
 
 ## Description
 
-With this application you can do the crud operations for your appointments. You can create your own user, log in and log out. The user has oauth 2.0 and jwt compatibility.
+With this application you can do the crud operations for your appointments. You can create your own user, log in and log out.
 
 ## Getting Started
 
 ### Dependencies
 
 * JDK 11 or higher
+* XAMP for the MySQL Server
+* MySQL Workbench for DB connection
 
 ### Installing
 
