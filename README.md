@@ -46,3 +46,4 @@ https://github.com/antar
 
 Inspiration, code snippets, etc.
 * [zlict - prof. bosshard](https://github.com/zlict/m223-punchclock-quarkus)
+* [nospl](https://github.com/NosPL/spring-security/tree/master/src/main/java/com/example/security/security_config)
