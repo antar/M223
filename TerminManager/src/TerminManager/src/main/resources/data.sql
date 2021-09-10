@@ -1,10 +1,10 @@
 start transaction;
 
  insert into Termin (Titel , Ort , Datum)
- values ('Kurs','ZLI', '2021-09-09T09:15:00');
+ values ('ÜK','ZLI', '2009-02-12T23:33:22');
 
  insert into User (username, password, email)
- values ('Alessio','Password','alessiopirovino@gmail.com');
+ values ('Harold23','123','Harold@email.ch');
 
 insert into Rolle (bezeichnung)
  values ('admin');
