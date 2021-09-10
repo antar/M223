@@ -1,13 +1,13 @@
 start transaction;
 
  insert into Termin (Titel , Ort , Datum)
- values ('Test','ZLI', '2009-02-12T23:33:22');
+ values ('Kurs','ZLI', '2021-09-09T12:00:00');
 
  insert into User (username, password, email)
- values ('Harold','123','email@emai.ch');
+ values ('Alessio','Alessio','alessiopirovino@gmail.com');
 
 insert into Rolle (bezeichnung)
- values ('slave');
+ values ('admin');
 
  insert into user_rollen (users_id, rollen_id)
  values (1, 1);
